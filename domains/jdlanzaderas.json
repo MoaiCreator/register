@@ -7,9 +7,9 @@
   "target": {
     "A": {
        "name": "jdlanzaderas", 
-       "value": ["185.27.134.134"]
+       "value": ["69.164.250.130"]
      }
   },
 
-  "proxied": true
+  "proxied": false
 }
