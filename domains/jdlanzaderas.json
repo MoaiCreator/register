@@ -4,12 +4,12 @@
     "email": "lanzaderasjohndiether83@gmail.com"
   },
 
-  "target": {
-    "A": {
-       "name": "jdlanzaderas", 
-       "value": ["185.27.134.134"]
-     }
+  "records": {
+    "A": ["185.27.134.134"],
+    "CNAME": {
+      "554406a6ca5f828b1ebb5c3c2e2a8cfa": "ns1.byet.org"
+    }
   },
 
-  "proxied": true
+  "proxied": false
 }
