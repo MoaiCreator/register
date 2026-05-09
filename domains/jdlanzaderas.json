@@ -5,10 +5,10 @@
   },
 
   "target": {
-    "A": ["185.27.134.134"],
-    "CNAME": {
-      "554406a6ca5f828b1ebb5c3c2e2a8cfa": "ns1.byet.org"
-    }
+    "A": {
+       "name": "jdlanzaderas", 
+       "value": ["185.27.134.134"]
+     }
   },
 
   "proxied": false
