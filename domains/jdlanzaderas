@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "JohnDiether",
+    "email": "lanzaderasjohndiether83@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "jdlanzaderas", 
+       "value": "185.27.134.134"
+     }
+  },
+
+  "proxied": true
+}
